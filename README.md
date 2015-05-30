@@ -5,4 +5,5 @@ It is difficult to know what open source javascript libraries are in use by majo
 # to test:
 
 [ ] will a minified jQuery AST look similar to a full text AST of jQuery
+
 [ ] will a bundle that includes other libs and also jQuery have a portion of its AST that looks like the AST of jQuery
